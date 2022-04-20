@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-travis-test/static/css/main.073c9b0a.css",
+    "main.js": "/react-travis-test/static/js/main.e380233e.js",
+    "static/js/787.c9473c24.chunk.js": "/react-travis-test/static/js/787.c9473c24.chunk.js",
+    "static/media/logo.svg": "/react-travis-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-travis-test/index.html",
+    "main.073c9b0a.css.map": "/react-travis-test/static/css/main.073c9b0a.css.map",
+    "main.e380233e.js.map": "/react-travis-test/static/js/main.e380233e.js.map",
+    "787.c9473c24.chunk.js.map": "/react-travis-test/static/js/787.c9473c24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e380233e.js"
+  ]
+}
